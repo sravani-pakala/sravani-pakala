@@ -1,9 +1,12 @@
 # Hi, I'm Sravani Pakala 👋
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-DataAnalysis-purple?logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
-![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git)
+![Python](https://img.shields.io/badge/Python-Project-blue)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-Projects-green)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Pandas%20%7C%20SQL%20%7C%20ML-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+![DSA](https://img.shields.io/badge/DSA-ProblemSolving-red)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+
 
 
 *BTech CSE Student* — Python • SQL • Basic Java • Data Analysis • DSA
