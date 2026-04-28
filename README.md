@@ -1,10 +1,10 @@
 # Hi, I'm Sravani Pakala 👋
 
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![SQL](https://img.shields.io/badge/SQL-Database-orange)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-Projects-green)
-![DSA](https://img.shields.io/badge/DSA-ProblemSolving-red)
-![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-DataAnalysis-purple?logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
+![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git)
+
 
 *BTech CSE Student* — Python • SQL • Basic Java • Data Analysis • DSA
 
