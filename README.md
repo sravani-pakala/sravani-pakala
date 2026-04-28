@@ -1,5 +1,11 @@
 # Hi, I'm Sravani Pakala 👋
 
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-Projects-green)
+![DSA](https://img.shields.io/badge/DSA-ProblemSolving-red)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+
 *BTech CSE Student* — Python • SQL • Basic Java • Data Analysis • DSA
 
 🔭 Current project: *Python, Machine Learning, Data Analytics Portfolio* (Brain Tumor Detection, Birdsong Identification, Property Price Prediction)  
