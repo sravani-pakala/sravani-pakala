@@ -5,8 +5,8 @@
 🔭 Current project: *Python, Machine Learning, Data Analytics Portfolio* (Brain Tumor Detection, Birdsong Identification, Property Price Prediction)  
 ✅ Built ML models using Python, Scikit-learn, and data analysis techniques  
 🌱 Learning: Advanced DSA, System Design basics, Deep Learning  
-🌐 Portfolio/GitHub: https://github.com/your-username  
-📫 Email: your-email@example.com  
+🌐 Portfolio/GitHub: https://github.com/sravani-pakala  
+📫 Email: sravanipakala2102@gmail.com  
 
 ---
 
